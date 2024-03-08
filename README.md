@@ -1,4 +1,4 @@
-# Aplikasi CRUD dengan PHP dan MySQLi (Procedural Style)
+# Aplikasi PPKUKM Jakarta
 Bahasa Pemrograman 	: PHP,
 Database		        : MySQL (Ekstensi MySQLi),
 Metode Pemrograman	: Prosedural,
